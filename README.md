@@ -1,0 +1,2 @@
+# Sistema-Salario
+proyecto diagnóstico
